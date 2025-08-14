@@ -13,5 +13,6 @@ Author: Dinesh Peddi
 - Turn-based gameplay
 
 ## How to Run
-```bash
+git clone https://github.com/yourusername/tic-tac-toe.git
+cd tic-tac-toe
 python tic_tac_toe.py
