@@ -4,12 +4,13 @@ A simple two-player Tic-Tac-Toe game playable in the terminal.
 
 Built to demonstrate control flow, input handling, and basic game logic using Python.
 
-Author: Dinesh Peddi
+## Author
+Dinesh Peddi
 
 ## Features
-- 3x3 grid with numbered cells
-- Input validation
-- Win/draw detection
+- 3x3 Grid with Numbered Cells
+- Input Validation
+- Win/Lose/Draw detection
 - Turn-based gameplay
 
 ## How to Run
